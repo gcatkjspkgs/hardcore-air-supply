@@ -1,0 +1,9 @@
+{
+    "author": "squoshi",
+    "description": "Air mechanics like Better Diving but for 1.18. A script that changes your air supply based on how deep you are in water.",
+    
+    "versions": [8],
+    "modloaders": ["forge"],
+    "dependencies": [],
+    "incompatibilities": []
+}
